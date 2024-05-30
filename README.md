@@ -2,7 +2,7 @@
 hi My name is **Victor Román Ortiz Abreu**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,apple,docker,bootstrap,git,laravel,ubuntu,webstorm,vscode,vscode,sublime,pycharm,py,phpstorm,mysql,npm,linkedin,html,gmail,     " />
   </a>
 </p>
 
