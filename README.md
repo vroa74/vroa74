@@ -1,5 +1,11 @@
 ## Hi there 👋
 hi My name is **Victor Román Ortiz Abreu**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
 <!--
 **vroa74/vroa74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
